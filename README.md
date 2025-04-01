@@ -69,3 +69,4 @@ For support or feature requests, please contact the plugin author.
 ## Screenshots
 
 [Coming Soon]
+# featured-posts-wp
